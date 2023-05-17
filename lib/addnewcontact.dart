@@ -252,7 +252,6 @@ class _addnewcontactState extends State<addnewcontact> {
                       Transform.scale(
                         scale: 1.3,
                         child: Checkbox(
-                          side: BorderSide(strokeAlign: StrokeAlign.inside),
                           // shape: CircleBorder(),
                           checkColor: Colors.pinkAccent,
                           activeColor: Colors.transparent,
@@ -282,7 +281,6 @@ class _addnewcontactState extends State<addnewcontact> {
                       Transform.scale(
                         scale: 1.3,
                         child: Checkbox(
-                          side: BorderSide(strokeAlign: StrokeAlign.inside),
                           //shape: CircleBorder(),
                           checkColor: Colors.pinkAccent,
                           activeColor: Colors.transparent,
@@ -312,7 +310,6 @@ class _addnewcontactState extends State<addnewcontact> {
                       Transform.scale(
                         scale: 1.3,
                         child: Checkbox(
-                          side: BorderSide(strokeAlign: StrokeAlign.inside),
                           //shape: CircleBorder(),
                           checkColor: Colors.pinkAccent,
                           activeColor: Colors.transparent,
@@ -342,7 +339,7 @@ class _addnewcontactState extends State<addnewcontact> {
                       Transform.scale(
                         scale: 1.3,
                         child: Checkbox(
-                          side: BorderSide(strokeAlign: StrokeAlign.inside),
+
                           //shape: CircleBorder(),
                           checkColor: Colors.pinkAccent,
                           activeColor: Colors.transparent,
@@ -372,7 +369,7 @@ class _addnewcontactState extends State<addnewcontact> {
                       Transform.scale(
                         scale: 1.3,
                         child: Checkbox(
-                          side: BorderSide(strokeAlign: StrokeAlign.inside),
+
                           //shape: CircleBorder(),
                           checkColor: Colors.pinkAccent,
                           activeColor: Colors.transparent,
